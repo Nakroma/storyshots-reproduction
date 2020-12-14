@@ -24,7 +24,7 @@
     "workspace-generator": "nx workspace-generator",
     "dep-graph": "nx dep-graph",
     "help": "nx help",
-    "storybook": "start-storybook -p 6006",
+    "storybook": "start-storybook -p 6006 -c apps/my-app/docs --no-dll",
     "build-storybook": "build-storybook"
   },
   "private": true,
