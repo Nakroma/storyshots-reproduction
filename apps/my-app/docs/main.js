@@ -1,7 +1,7 @@
 module.exports = {
   "stories": [
-    "../stories/**/*.stories.mdx",
-    "../stories/**/*.stories.@(js|jsx|ts|tsx)"
+    "/home/tarek/TradeSkillMaster/myorg/apps/my-app/stories/**/*.stories.mdx",
+    "/home/tarek/TradeSkillMaster/myorg/apps/my-app/stories/**/*.stories.@(js|jsx|ts|tsx)"
   ],
   "addons": [
     "@storybook/addon-links",
