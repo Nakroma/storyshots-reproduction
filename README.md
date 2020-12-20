@@ -1,6 +1,13 @@
 # Reproduction Repository
 Stack: NX, Nuxt.js
 
+To use:
+
+```
+yarn install
+nx test my-app
+```
+
 ## Steps taken to get to this repo
 ```
 npx create-nx-workspace@@latest // Created empty workspace
